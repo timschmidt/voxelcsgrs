@@ -1,6 +1,8 @@
 use grid_tree::glam::IVec3;
 use voxelcsgrs::VoxelCSG;
 
+mod tests;
+
 // Import your voxel CSG module here.
 // Suppose you have `mod voxel_csg;` where `VoxelCSG` is defined.
 // Or if it's a separate crate, use the appropriate `use` statement.
